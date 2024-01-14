@@ -1,8 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F79333&center=true&random=false&width=435&lines=PROJECT+ROUT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=F79333&random=false&width=435&lines=PROJECT+ROUT)](https://git.io/typing-svg)
 
-
-#№ used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **Here are some ideas to get you started:**
